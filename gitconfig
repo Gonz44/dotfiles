@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cryptogon@outlook.com
+	name = Gonzalo Guerra
