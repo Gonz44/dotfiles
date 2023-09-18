@@ -51,6 +51,9 @@
   rebase = false
 [user]
 	email = cryptogon@outlook.com
+
 	name = exit
 [init]
 	defaultBranch = master
+
+	name = Gonzalo Guerra
