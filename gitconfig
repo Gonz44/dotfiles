@@ -50,5 +50,7 @@
 [pull]
   rebase = false
 [user]
-	email = codergon@outlookk.com
+	email = cryptogon@outlook.com
 	name = exit
+[init]
+	defaultBranch = master
